@@ -1,0 +1,37 @@
+Ideation Phase
+Brainstorm & Idea Prioritization 
+Date: 26 June 2025
+Team ID: [SWUID20250178454]
+Project Name: SocialEx – Redefining Social Connectivity
+Maximum Marks: 4 Marks
+
+Step-1: Team Gathering, Collaboration and Select the Problem Statement
+Our team collaborated to identify pain points in current social media platforms. We selected the core problem statement: 'Users struggle to collaborate, communicate, and share securely on mainstream platforms due to lack of real-time features and weak privacy enforcement.'
+
+Step-2: Brainstorm, Idea Listing and Grouping
+We brainstormed and grouped ideas into key functional areas of the SocialEx platform:
+- Real-time Messaging and Collaboration
+- Content Saving and Bookmarking
+- Stories and Interactive Engagement
+- Privacy & Data Security
+- Explore & Connect Feature
+
+Detailed Ideas:
+1. Implement socket.io for real-time messaging and notifications.
+2. Add a 'Save Post' feature to bookmark posts for later use.
+3. Enable ephemeral content via stories (images, videos, text).
+4. Use end-to-end encryption for private messages and media.
+5. Create an explore tab using trending algorithms to promote engagement.
+
+Step-3: Idea Prioritization
+We prioritized the ideas based on the following criteria:
+- User Impact
+- Technical Feasibility
+- Innovation Potential
+
+Idea	User Impact (1-5)	Feasibility (1-5)	Priority Score (Impact × Feasibility)
+Real-time messaging via socket.io	5	4	20
+Post saving/bookmarking	4	5	20
+Ephemeral stories	4	4	16
+End-to-end message encryption	5	3	15
+Trending-based explore feature	3	4	12
